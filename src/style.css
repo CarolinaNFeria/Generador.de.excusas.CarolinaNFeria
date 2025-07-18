@@ -1,5 +1,16 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgb(239, 159, 239);
+}
+h1 {
+    color: rgb(156, 20, 198)
+}
+#titulo {
+    color: rgb(199, 72, 133);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+}
+img {
+    zoom:30%;
 }
